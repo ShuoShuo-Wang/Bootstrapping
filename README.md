@@ -1,2 +1,2 @@
 # Bootstrapping
-Bootstrapping code exercises without using any topic-related R functions/packages(Only Base R)
+Bootstrapping in R without directly using any bootstrapping-related functions.
